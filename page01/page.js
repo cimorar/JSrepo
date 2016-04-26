@@ -9,7 +9,7 @@
 //    h1 = document.getElementsByTagName('h1')[0]; // accessing the same <h1> element
 
 function doSomething(){
-	alert("Hello");
+	alert("Kuk Radime");
 }
 
 function doSomethingOther(){
